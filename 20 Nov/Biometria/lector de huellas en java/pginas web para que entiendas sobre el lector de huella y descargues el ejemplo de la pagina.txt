@@ -1,0 +1,10 @@
+/************lector de huellas********************/
+http://monillo007.blogspot.com/2008/08/programacin-de-un-lector-de-huella.html   //PARTE 1
+
+http://monillo007.blogspot.com/2008/08/programacin-de-un-lector-de-huella_20.html  //PARTE 2
+
+http://monillo007.blogspot.com/2008/09/programacin-de-un-lector-de-huella.html   //PARTE 3
+
+http://monillo007.blogspot.com/2008/09/programacin-de-un-lector-de-huella_03.html  //PARTE 4
+
+http://monillo007.blogspot.com/2008/10/programacin-de-un-lector-de-huella.html  //PARTE 5
